@@ -1,4 +1,4 @@
-# Data Engineer Technical Interview Assignment
+# Data Engineer
 
 ## 1. Requirements
 
